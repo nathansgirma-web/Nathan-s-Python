@@ -1,0 +1,10 @@
+import random
+digit1 = random.randint(0, 9)
+digit2 = random.randint(0, 9)
+digit3 = random.randint(0, 9)
+digit4 = random.randint(1, 6)
+digit5 = random.randint(1, 6)
+digit6 = random.randint(1, 6)
+digit7 = random.randint(1, 6)
+print("3-digit code:", digit1, digit2, digit3)
+print("4-digit code:", digit4, digit5, digit6, digit7)
